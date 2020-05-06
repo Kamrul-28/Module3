@@ -1,0 +1,26 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+nav{
+    background-color:grey;
+}
+
+.navbar-brand span{
+    font-size: 30px;
+    margin-left: 30px;
+}
+
+.nav-item{
+   border-bottom: 1px solid black;
+   text-align: center;
+}
+.nav-link{
+    color: black;
+}
+.section1{
+    background-color: grey;
+    padding: 10px;
+    float: left;
+}
